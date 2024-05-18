@@ -2,7 +2,7 @@ This is a my portfolio (under developping) project bootstrapped with [`create-ne
 
 ## Getting Started
 
-First, run the development server:
+First, run the development server: 
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
